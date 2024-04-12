@@ -12,15 +12,16 @@
 <h1 align="center">Hi 👋, I'm Taha Arslan</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
+- 📚 I'm studying **Computer engineering**
 
-- 🔭 I’m currently working on **Ai,Back-end**
+- 🔭 I’m currently working on **Ai,Back-end, Unreal Engine**
 
 - 💬 Ask me about **Java, Front-end, Unreal Engine**
 
 - 📫 How to reach me **arslantaha67@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/taha arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha arslan" height="30" width="40" /></a>
 <a href="https://instagram.com/taharsln_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taharsln_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tahaarslan67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahaarslan67" height="30" width="40" /></a>
